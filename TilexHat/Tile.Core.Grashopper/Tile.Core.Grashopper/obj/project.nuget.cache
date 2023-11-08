@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MFI2ciyrxYAhJzACBy9e5EOQC+B8JK1ku9vATIdiLOGa5Ii5Db3qWZUJ5MXpEwgtflizFuP+F8jcRa9QtwZOg==",
+  "success": true,
+  "projectFilePath": "D:\\研究所\\MonoTiles\\TilexHat\\Tile.Core.Grashopper\\Tile.Core.Grashopper\\Tile.Core.Grashopper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Username\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\Username\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
