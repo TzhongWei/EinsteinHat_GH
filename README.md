@@ -3,4 +3,4 @@ The program can be applied in Rhino Grasshopper as a plugin.
 Also, the Hat algorithm is referred to here 
 https://github.com/isohedral/hatviz
 
-This C# program can be mutified by everyone who are interested in developing your own hat patterns.
+This C# program can be applied by everyone interested in developing their hat patterns.
